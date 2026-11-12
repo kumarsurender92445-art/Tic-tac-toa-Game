@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="mode_pvp">2 Players</string>
+    <string name="mode_ai">Vs Computer</string>
+    <string name="diff_easy">Easy</string>
+    <string name="diff_medium">Medium</string>
+    <string name="diff_hard">Hard (Unbeatable)</string>
+    <string name="turn_x">Player X Turn</string>
+    <string name="turn_o">Player O Turn</string>
+    <string name="turn_you">Your Turn (X)</string>
+    <string name="turn_ai_thinking">AI is thinking…</string>
+    <string name="win_x">Player X Wins!</string>
+    <string name="win_o">Player O Wins!</string>
+    <string name="win_you">You Won! 🎉</string>
+    <string name="win_ai">AI Won! 🤖</string>
+    <string name="game_draw">It\'s a Draw!</string>
+    <string name="restart_round">Restart Round</string>
+    <string name="reset_scores">Reset Scores</string>
+    <string name="reset_scores_confirm">Are you sure you want to reset all scores to zero?</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="sound_on">Sound: ON</string>
+    <string name="sound_off">Sound: OFF</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="score_x">X (Player 1)</string>
+    <string name="score_o">O (Player 2 / AI)</string>
+    <string name="score_draws">Draws</string>
+    <string name="total_games">Total Matches</string>
+</resources>

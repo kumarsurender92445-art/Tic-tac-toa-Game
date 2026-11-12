@@ -1,0 +1,6 @@
+{
+  "name": "Tic Tac Toe",
+  "description": "Neon glow Tic Tac Toe with Single-player AI (Easy, Medium, Hard), 2-Player mode, sound effects, scoreboard, and dark/light themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
